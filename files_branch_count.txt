@@ -1,0 +1,4 @@
+03a_pyramidal9aFI.CNGApical_branch_count.txt
+03a_spindle2aFI.CNGDendrite_branch_count.txt
+03a_spindle2aFI.CNGApical_branch_count.txt
+03a_spindle6aFI.CNGApical_branch_count.txt

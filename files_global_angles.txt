@@ -1,0 +1,4 @@
+03a_pyramidal9aFI.CNGApical_angle_global.txt
+03a_spindle2aFI.CNGDendrite_angle_global.txt
+03a_spindle2aFI.CNGApical_angle_global.txt
+03a_spindle6aFI.CNGApical_angle_global.txt

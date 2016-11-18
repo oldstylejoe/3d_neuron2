@@ -1,0 +1,15 @@
+
+Convex hull of 2140 points in 3-d:
+
+  Number of vertices: 19
+  Number of facets: 34
+
+Statistics for:  | qhull FA
+
+  Number of points processed: 19
+  Number of hyperplanes created: 64
+  Number of distance tests for qhull: 26153
+  CPU seconds to compute hull (after input):  0
+  Total facet area:   43351.931
+  Total volume:       385819.27
+
